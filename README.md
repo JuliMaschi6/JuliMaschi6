@@ -1,4 +1,4 @@
-## Hey, Juli here!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## Hey, Juli here!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="2px">
 
 <h3>Hi, I'm Juliana Carreño, a Full Stack Developer 🚀 from Argentina. </h3> 
 
@@ -13,9 +13,8 @@
 * Redux
 * SQL
 
-## Programming Languages
-
- ## Technologies I Use
+<img src = 'https://github.com/JuliMaschi6/JuliMaschi6/blob/main/image/js.svg' width='30'/> <img src = 'https://github.com/JuliMaschi6/JuliMaschi6/blob/main/image/nodejs.svg' width='30'/> <img src = 'https://github.com/JuliMaschi6/JuliMaschi6/blob/main/image/react.svg' width='30'/> <img src = 'https://github.com/JuliMaschi6/JuliMaschi6/blob/main/image/redux.jpg' width='30'/> <img src = 'https://github.com/JuliMaschi6/JuliMaschi6/blob/main/image/sql.svg' width='30'/>
+<img src = 'https://github.com/JuliMaschi6/JuliMaschi6/blob/main/image/html.svg' width='30'/> <img src = 'https://github.com/JuliMaschi6/JuliMaschi6/blob/main/image/css.svg' width='30'/>
  
  ## Who am I?
  
